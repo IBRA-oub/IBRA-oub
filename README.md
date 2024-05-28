@@ -55,7 +55,7 @@
 
  <a href="brahimoubourrih@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> <a/>
   <a href="www.linkedin.com/in/brahim-oubourrih-138734296"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> <a/>
-  <a href="ibra-oub.github.io/portfolio/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIaVunGq1OZllKPr3T1pNfvlZHnYqYZe69VSo1qtvOg&s" height="35" width="130" alt="linkedin logo"  /><a/>
+  <a href="https://ibra-oub.github.io/portfolio/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIaVunGq1OZllKPr3T1pNfvlZHnYqYZe69VSo1qtvOg&s" height="35" width="130" alt="linkedin logo"  /><a/>
 </div>
 
 ###
@@ -63,8 +63,9 @@
 ## Education
 <div>
    <a href='https://youcode.ma/'>
-     <img src='https://youcode.ma/images/logos/youcode.png' width="100">
+     <img src='https://media.licdn.com/dms/image/C4D16AQGdd0NhoVaf2Q/profile-displaybackgroundimage-shrink_200_800/0/1624377073178?e=2147483647&v=beta&t=WZhnvq7iRpkKjC_sqpzCUhUfrOrA34G-CFuAaUDirrE' height="45" width="220">
   </a>
+  
 </div>
 
 <!--<br clear="both">
