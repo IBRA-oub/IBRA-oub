@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is BRAHIM and I'm a Full-Stack developer, from MOROCCO <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/2560px-Flag_of_Morocco.svg.png" height="30" alt="moroccco logo"  /> </h2>
+<h2 align="left">Hi 👋! My name is BRAHIM and I'm a Full-Stack developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/2560px-Flag_of_Morocco.svg.png" height="30" alt="moroccco logo"  /> </h2>
 
 ###
 
